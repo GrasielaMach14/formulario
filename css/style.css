@@ -1,0 +1,12 @@
+.texto-centro{
+  text-align: center;
+}
+.img-centro{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.img-circle{
+  border-radius: 3%;
+}
